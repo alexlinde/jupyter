@@ -1,0 +1,106 @@
+makeid,makename,vehicletypeid,vehicletypename
+448,Toyota,2,Passenger Car
+449,Mercedes-Benz,2,Passenger Car
+452,BMW,2,Passenger Car
+456,MINI,2,Passenger Car
+460,Ford,2,Passenger Car
+464,Lincoln,2,Passenger Car
+465,Mercury,2,Passenger Car
+467,Chevrolet,2,Passenger Car
+468,Buick,2,Passenger Car
+469,Cadillac,2,Passenger Car
+472,GMC,2,Passenger Car
+473,Mazda,2,Passenger Car
+474,Honda,2,Passenger Car
+475,Acura,2,Passenger Car
+476,Dodge,2,Passenger Car
+477,Chrysler,2,Passenger Car
+478,Nissan,2,Passenger Car
+480,Infiniti,2,Passenger Car
+481,Mitsubishi,2,Passenger Car
+482,Volkswagen,2,Passenger Car
+485,Volvo,2,Passenger Car
+492,Fiat,2,Passenger Car
+498,Hyundai,2,Passenger Car
+499,Kia,2,Passenger Car
+504,smart,2,Passenger Car
+509,Suzuki,2,Passenger Car
+515,Lexus,2,Passenger Car
+523,Subaru,2,Passenger Car
+536,Pontiac,2,Passenger Car
+539,Morgan,2,Passenger Car
+542,Isuzu,2,Passenger Car
+572,SAAB,2,Passenger Car
+582,Audi,2,Passenger Car
+847,Daihatsu,2,Passenger Car
+1056,Saturn,2,Passenger Car
+1077,Daewoo,2,Passenger Car
+2409,Plymouth,2,Passenger Car
+4162,Oldsmobile,2,Passenger Car
+444,Land Rover,7,Multipurpose Passenger Vehicle (MPV)
+448,Toyota,7,Multipurpose Passenger Vehicle (MPV)
+449,Mercedes-Benz,7,Multipurpose Passenger Vehicle (MPV)
+452,BMW,7,Multipurpose Passenger Vehicle (MPV)
+456,MINI,7,Multipurpose Passenger Vehicle (MPV)
+460,Ford,7,Multipurpose Passenger Vehicle (MPV)
+464,Lincoln,7,Multipurpose Passenger Vehicle (MPV)
+465,Mercury,7,Multipurpose Passenger Vehicle (MPV)
+467,Chevrolet,7,Multipurpose Passenger Vehicle (MPV)
+468,Buick,7,Multipurpose Passenger Vehicle (MPV)
+469,Cadillac,7,Multipurpose Passenger Vehicle (MPV)
+472,GMC,7,Multipurpose Passenger Vehicle (MPV)
+473,Mazda,7,Multipurpose Passenger Vehicle (MPV)
+474,Honda,7,Multipurpose Passenger Vehicle (MPV)
+475,Acura,7,Multipurpose Passenger Vehicle (MPV)
+476,Dodge,7,Multipurpose Passenger Vehicle (MPV)
+477,Chrysler,7,Multipurpose Passenger Vehicle (MPV)
+478,Nissan,7,Multipurpose Passenger Vehicle (MPV)
+480,Infiniti,7,Multipurpose Passenger Vehicle (MPV)
+481,Mitsubishi,7,Multipurpose Passenger Vehicle (MPV)
+482,Volkswagen,7,Multipurpose Passenger Vehicle (MPV)
+483,Jeep,7,Multipurpose Passenger Vehicle (MPV)
+485,Volvo,7,Multipurpose Passenger Vehicle (MPV)
+492,Fiat,7,Multipurpose Passenger Vehicle (MPV)
+496,Ram,7,Multipurpose Passenger Vehicle (MPV)
+498,Hyundai,7,Multipurpose Passenger Vehicle (MPV)
+499,Kia,7,Multipurpose Passenger Vehicle (MPV)
+509,Suzuki,7,Multipurpose Passenger Vehicle (MPV)
+515,Lexus,7,Multipurpose Passenger Vehicle (MPV)
+523,Subaru,7,Multipurpose Passenger Vehicle (MPV)
+536,Pontiac,7,Multipurpose Passenger Vehicle (MPV)
+542,Isuzu,7,Multipurpose Passenger Vehicle (MPV)
+572,SAAB,7,Multipurpose Passenger Vehicle (MPV)
+580,Sprinter (Dodge or Freightliner),7,Multipurpose Passenger Vehicle (MPV)
+582,Audi,7,Multipurpose Passenger Vehicle (MPV)
+847,Daihatsu,7,Multipurpose Passenger Vehicle (MPV)
+951,"Hummer ",7,Multipurpose Passenger Vehicle (MPV)
+1056,Saturn,7,Multipurpose Passenger Vehicle (MPV)
+2409,Plymouth,7,Multipurpose Passenger Vehicle (MPV)
+4162,Oldsmobile,7,Multipurpose Passenger Vehicle (MPV)
+448,Toyota,3,"Truck "
+449,Mercedes-Benz,3,"Truck "
+460,Ford,3,"Truck "
+464,Lincoln,3,"Truck "
+465,Mercury,3,"Truck "
+467,Chevrolet,3,"Truck "
+469,Cadillac,3,"Truck "
+472,GMC,3,"Truck "
+473,Mazda,3,"Truck "
+474,Honda,3,"Truck "
+475,Acura,3,"Truck "
+476,Dodge,3,"Truck "
+477,Chrysler,3,"Truck "
+478,Nissan,3,"Truck "
+480,Infiniti,3,"Truck "
+481,Mitsubishi,3,"Truck "
+482,Volkswagen,3,"Truck "
+483,Jeep,3,"Truck "
+485,Volvo,3,"Truck "
+492,Fiat,3,"Truck "
+496,Ram,3,"Truck "
+509,Suzuki,3,"Truck "
+523,Subaru,3,"Truck "
+542,Isuzu,3,"Truck "
+580,Sprinter (Dodge or Freightliner),3,"Truck "
+951,"Hummer ",3,"Truck "
+2409,Plymouth,3,"Truck "
